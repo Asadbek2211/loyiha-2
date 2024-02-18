@@ -1,0 +1,37 @@
+img{
+    width: 600px;
+    height: 420px;
+    margin-left: 600px;
+}
+
+
+h1 {
+  width: 380px;
+  line-height: 50px;
+  font-size: 45px;
+  position: absolute;
+  top:240px;
+  left: 40px;
+}
+h5{
+   font-size: 17px;
+   width: 500px;
+   color: rgb(75, 73, 73);
+   font-weight: 300;
+   position: absolute;
+   top:460px;
+   left: 40px;
+}
+h4{
+    color: rgb(12, 236, 12);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 600;
+    position: absolute;
+    top:190px;
+    left: 40px;
+    font-size: 25px;
+}
+
+.nav-item {
+    cursor: pointer;
+}

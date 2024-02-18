@@ -1,0 +1,41 @@
+nav{
+    margin: 30px;
+}
+ul li {
+    margin: 20px
+}
+
+input {
+    height: 30px;
+    margin: 20px;
+}
+button {
+    height: 30px;
+    margin: 20px;
+}
+ul{
+    transform: translateX(110px);
+}
+
+header{
+    position: relative
+}
+
+.navbar-brand{
+    font-size: 30px;
+    margin: 20px;
+}
+
+.nav-item-active-sign-up{
+    border: 0.1px solid black;
+    border-radius: 7px;
+    transition: .5s;
+}
+
+
+.nav-item-active-sign-up:hover{
+    background-color: orange;
+    transition: 0.5s;
+    border: 0.1px solid orange;
+    color: rgb(255, 255, 255);
+}
