@@ -26,10 +26,7 @@ import { MatSortModule } from '@angular/material/sort';
 import { MatSnackBarModule } from '@angular/material/snack-bar';
 import { NgbModule } from '@ng-bootstrap/ng-bootstrap';
 import { MatDialog } from '@angular/material/dialog';
-import { DestinationsComponent } from './destinations/destinations.component';
 import { HotelsComponent } from './hotels/hotels.component';
-import { FlightsComponent } from './flights/flights.component';
-import { BookingsComponent } from './bookings/bookings.component';
 import { LoginComponent } from './login/login.component';
 import { SignUpComponent } from './sign-up/sign-up.component';
 import { NavbarComponent } from './navbar/navbar.component';
@@ -41,10 +38,7 @@ import { NavbarComponent } from './navbar/navbar.component';
 @NgModule({
   declarations: [
     AppComponent,
-    DestinationsComponent,
     HotelsComponent,
-    FlightsComponent,
-    BookingsComponent,
     LoginComponent,
     SignUpComponent,
     NavbarComponent,
